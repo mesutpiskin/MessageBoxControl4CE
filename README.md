@@ -1,4 +1,4 @@
-<h2>Custom message box control for Windows Embedded Compact/h2>
+<h2>Custom message box control for Windows Embedded Compact</h2>
 <hr/>
 Developed with Dot Net Compact Framework 3.5 for Windows CE 5,6,7, windows mobile, windows compact app and or other CE version.
 
