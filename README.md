@@ -22,7 +22,7 @@ Developed with Dot Net Compact Framework 3.5 for Windows CE 5,6,7, windows mobil
 <b>Build the library</b>
 <ol>
     <li>Start Microsoft Visual Studio 2008 and select File > Open > Project/Solution.</li>
-    <li>Starting in the folder where you clone the repository, go to WinCEUtility > Sample-WPF Folder.</li>
+    <li>Starting in the folder where you clone the repository, go to WinCEUtility </li>
     <li>Double-click the Visual Studio 2008 Solution (csproj) file <b>CompactMessageBoxControl.csproj</b></li>
      <li>Press Ctrl+Shift+B, or select Build > Build Solution.</li>
 </ol>
@@ -34,9 +34,9 @@ Developed with Dot Net Compact Framework 3.5 for Windows CE 5,6,7, windows mobil
     <li>Right click References and Add Reference..</li>
     <li>Download dll. Click here to download https://github.com/mesutpiskin/MessageBoxControl4CE/tree/master/Binaries </li>
     <li>Select CompactMessageBoxControl.dll file and add to project</li>
-    <li> that is all</li>
+    <li>That is all</li>
 </ol>
-
+<b>Sample</b>
   ```csharp
       UCMessageBox ucMessageBox1;
       ucMessageBox1 = new UCMessageBox(panel1);
