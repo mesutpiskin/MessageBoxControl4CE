@@ -37,7 +37,8 @@ Developed with Dot Net Compact Framework 3.5 for Windows CE 5,6,7, windows mobil
     <li>That is all</li>
 </ol>
 <b>Sample</b>
-  ```csharp
+```
+
       UCMessageBox ucMessageBox1;
       ucMessageBox1 = new UCMessageBox(panel1);
       //Just message
@@ -47,4 +48,5 @@ Developed with Dot Net Compact Framework 3.5 for Windows CE 5,6,7, windows mobil
       ucMessageBox1.DefaultHeight = 300;
       ucMessageBox1.Show("Hello", "This is test message!", MsgButtons.OK, DisplayState.Normal, 10);
       ///Look the testproject
-      
+
+```
